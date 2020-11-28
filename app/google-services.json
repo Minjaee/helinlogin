@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705310933237",
+    "firebase_url": "https://hellin-database.firebaseio.com",
+    "project_id": "hellin-database",
+    "storage_bucket": "hellin-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705310933237:android:2d6d59d1c38b07e3dd85bc",
+        "android_client_info": {
+          "package_name": "com.example.helinlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705310933237-vemo4nl37it65rqgm1j9gfjk6lqtcbli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helinlogin",
+            "certificate_hash": "f9f4cd6b19c8d8ae0009d73eeda76720638bdd6e"
+          }
+        },
+        {
+          "client_id": "705310933237-bo2qn6rckq2uneal3edsf285na1tk8ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4PgHuxihMMbMLXrDG9jqpl_Yic6xPEbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705310933237-bo2qn6rckq2uneal3edsf285na1tk8ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
