@@ -36,4 +36,13 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    
+    implementation 'com.google.firebase:firebase-auth:19.0.0'
+    implementation 'com.google.android.gms:play-services-auth:17.0.0'
+    // 이거 파이어베이스 로그인 기능같은거 추가하려고 추가함
+
+    implementation platform('com.google.firebase:firebase-bom:26.1.0')
 }
+
+apply plugin: 'com.google.gms.google-services'
